@@ -45,4 +45,19 @@ public class Field {
 		columns = tmpRows;
 	}
 
+	public void rotateCcw() {
+		int[][] tmp = new int[columns][rows];
+
+		for (int i = 0, k = columns - 1; i < tmp.length; i++, k--) {
+			for (int j = rows - 1; j >= 0; j--) {
+				tmp[i][j] = array[j][k];
+			}
+		}
+
+		array = tmp;
+		int tmpRows = rows;
+		rows = columns;
+		columns = tmpRows;
+	}
+
 }
