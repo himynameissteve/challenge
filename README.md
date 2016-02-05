@@ -23,4 +23,8 @@ We compare the results and decide which one's getting the job done the best way.
 ##Branches##
 Each challenge will get it's own branch.
 
+##Challenges##
+- Rotate a 2d array field.
+- Convert Hex to Base64.
+
 
