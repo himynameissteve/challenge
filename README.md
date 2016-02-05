@@ -1,4 +1,4 @@
-challenge
+Challenge
 =========
 
 *Enjoy!*
@@ -19,5 +19,8 @@ You bring up a problem to solve.
 Everybody has to come up with a solution.
 No Google-ing!!!
 We compare the results and decide which one's getting the job done the best way.
+
+##Branches##
+Each challenge will get it's own branch.
 
 
