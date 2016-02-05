@@ -20,8 +20,8 @@ Everybody has to come up with a solution.
 No Google-ing!!!
 We compare the results and decide which one's getting the job done the best way.
 
-##Branches##
-Each challenge will get it's own branch.
+##Packages##
+Each challenge will get it's own package.
 
 ##Challenges##
 - Rotate a 2d array field.
